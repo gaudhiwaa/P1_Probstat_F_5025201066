@@ -160,8 +160,7 @@ X2 = 6
 
 Penjelasan :
 Men-generate 100 variabel acak dengan median 50 dengan standar deviasi 8
-x1 <- floor(mean(x)) #mencari x1 dari x1 <= x
-x2 <- ceiling(mean(x)) #mencari x2 dari x >= x2
+mencari x1 dari x1 <= x dan mencari x2 dari x >= x2.
 Kemudian cari z dari x1 dan x2 menggunakan fungsi yang telah dibuat.
 plot nilai variabel acak, plot nilai-nilai fungsi peluang (Z).
 lalu, buat program untuk membentuk pola standar, membagi menjadi 2 section ganjil dan genap.
