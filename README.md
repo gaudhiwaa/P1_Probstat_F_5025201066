@@ -58,6 +58,10 @@ Penjelasan :
 Rumus rata-rata -> rataan = n * prob
 Rumus varian -> rataan * (1 - prob)
 
+SS : 
+![image1.1](/Screenshot/1.1.png)
+![image1.2](/Screenshot/1.2.png)
+
 ## No.2.
 Terdapat 20 pasien menderita Covid19 dengan peluang sembuh sebesar 0.2. Tentukan :
 
@@ -81,6 +85,11 @@ Penjelasan :
 
 ## No.3.
 Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis 4,5 bayi lahir di rumah sakit ini setiap hari. (gunakan Distribusi Poisson)
+
+SS :
+![image2.1](/Screenshot/2.1.png)
+![image2.2](/Screenshot/2.2.png)
+![image2.3](/Screenshot/2.3.png)
 
 No.3.A. Berapa peluang bahwa 6 bayi akan lahir di rumah sakit ini besok?
 
@@ -107,6 +116,10 @@ Nilai Rataan (μ) dan Varian (σ2) dari Distribusi Poisson.
 Penjelasan :
 Untuk Distribusi Poisson, mean = varian =lambda
 
+SS :
+![image3.1](/Screenshot/3.1.png)
+![image3.2](/Screenshot/3.2.png)
+
 ## No.4.
 Diketahui nilai x = 2 dan v = 10. Tentukan:
 
@@ -125,6 +138,10 @@ Histogram Distribusi Chi-Square dengan 100 data random
 No.4.C. Nilai Rataan (μ) dan Varian (σ2) dari Distribusi Chi-Square.
 
 Untuk Distribusi Poisson, mean = v dan variant = v*2
+
+SS :
+![image4.1](/Screenshot/4.1.png)
+![image4.2](/Screenshot/4.2.png)
 
 ## No.5. 
 Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Tentukan
@@ -146,6 +163,10 @@ No.5.C. Nilai Rataan (μ) dan Varian (σ2) dari Distribusi Exponensial untuk n =
 Penjelasan :
 mean = 1/lambda
 var = 1/lamb ^2
+
+SS :
+![image5.1](/Screenshot/5.1.png)
+![image5.2](/Screenshot/5.2.png)
 
 ## No.6 
 Diketahui generate random nilai sebanyak 100 data, mean = 50, sd = 8. Tentukan
@@ -178,3 +199,10 @@ c. Nilai Varian (σ2) dari hasil generate random nilai Distribusi Normal.
 
 Penjelasan :
 var=(standar deviasi)^2
+
+![image6.1](/Screenshot/6.1.png)
+![image6.2](/Screenshot/6.2.png)
+![image6.1](/Screenshot/6.3.png)
+![image6.2](/Screenshot/6.4.png)
+![image6.1](/Screenshot/6.5.png)
+![image6.2](/Screenshot/6.6.png)
