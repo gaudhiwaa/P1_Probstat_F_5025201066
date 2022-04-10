@@ -170,8 +170,3 @@ c. Nilai Varian (σ2) dari hasil generate random nilai Distribusi Normal.
 
 Penjelasan :
 var=(standar deviasi)^2
-
-Daftar Pustaka 
-https://www.rumusstatistik.com/2012/07/rumus-distribusi-geometrik.html
-https://www.statology.org/dbinom-pbinom-qbinom-rbinom-in-r/
-https://byjus.com/maths/poisson-distribution/#Mean%20and%20variance
