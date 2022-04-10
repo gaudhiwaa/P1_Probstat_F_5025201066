@@ -1,4 +1,4 @@
-#P1_Probstat_F_5025201066
+#P1_Probstat_F_5025201066#
 
 #No.1.
 Seorang penyurvei secara acak memilih orang-orang di jalan sampai dia bertemu dengan seseorang yang menghadiri acara vaksinasi sebelumnya.
