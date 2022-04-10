@@ -1,4 +1,9 @@
 # P1_Probstat_F_5025201066 #
+Nama : Gaudhiwaa Hendrasto
+
+NRP : 5025201066
+
+Kelas: Probstat F
 
 ## No.1.
 Seorang penyurvei secara acak memilih orang-orang di jalan sampai dia bertemu dengan seseorang yang menghadiri acara vaksinasi sebelumnya.
@@ -53,7 +58,7 @@ Penjelasan :
 Rumus rata-rata -> rataan = n * prob
 Rumus varian -> rataan * (1 - prob)
 
-No.2.
+## No.2.
 Terdapat 20 pasien menderita Covid19 dengan peluang sembuh sebesar 0.2. Tentukan :
 
 No.2.A.
@@ -74,7 +79,7 @@ Gambarkan grafik histogram berdasarkan kasus tersebut.
 
 Penjelasan :
 
-No.2.
+## No.3.
 Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis 4,5 bayi lahir di rumah sakit ini setiap hari. (gunakan Distribusi Poisson)
 
 No.3.A. Berapa peluang bahwa 6 bayi akan lahir di rumah sakit ini besok?
@@ -102,7 +107,7 @@ Nilai Rataan (μ) dan Varian (σ2) dari Distribusi Poisson.
 Penjelasan :
 Untuk Distribusi Poisson, mean = varian =lambda
 
-No.4.
+## No.4.
 Diketahui nilai x = 2 dan v = 10. Tentukan:
 
 No.4.A. Fungsi Probabilitas dari Distribusi Chi-Square.
@@ -121,7 +126,7 @@ No.4.C. Nilai Rataan (μ) dan Varian (σ2) dari Distribusi Chi-Square.
 
 Untuk Distribusi Poisson, mean = v dan variant = v*2
 
-No.5. 
+## No.5. 
 Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Tentukan
 
 No.5.A. Fungsi Probabilitas dari Distribusi Exponensial
@@ -135,14 +140,16 @@ Penjelasan :
 Histogram rentan 0-0.30 dari Distribusi Exponensial untuk 10, 100, 1000 dan 10000 bilangan.
 
 No.5.C. Nilai Rataan (μ) dan Varian (σ2) dari Distribusi Exponensial untuk n = 100 dan λ = 3 Petunjuk:
-● Gunakan set.seed(1)
-● Gunakan fungsi bawaan R
+- Gunakan set.seed(1)
+- Gunakan fungsi bawaan R
 
 Penjelasan :
 mean = 1/lambda
 var = 1/lamb ^2
 
-No.6 Diketahui generate random nilai sebanyak 100 data, mean = 50, sd = 8. Tentukan
+## No.6 
+Diketahui generate random nilai sebanyak 100 data, mean = 50, sd = 8. Tentukan
+
 No.6.A. Fungsi Probabilitas dari Distribusi Normal P(X1 ≤ x ≤ X2), hitung Z-Score Nya dan plot data generate randomnya dalam bentuk grafik. Petunjuk(gunakan fungsi plot()).
 Keterangan :
 X1 = Dibawah rata-rata
