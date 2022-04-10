@@ -81,15 +81,13 @@ Jawaban : 0.21819940
 No.2.B.
 Gambarkan grafik histogram berdasarkan kasus tersebut.
 
-Penjelasan :
-
-## No.3.
-Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis 4,5 bayi lahir di rumah sakit ini setiap hari. (gunakan Distribusi Poisson)
-
 SS :
 ![image2.1](/Screenshot/2.1.png)
 ![image2.2](/Screenshot/2.2.png)
 ![image2.3](/Screenshot/2.3.png)
+
+## No.3.
+Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis 4,5 bayi lahir di rumah sakit ini setiap hari. (gunakan Distribusi Poisson)
 
 No.3.A. Berapa peluang bahwa 6 bayi akan lahir di rumah sakit ini besok?
 
